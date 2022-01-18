@@ -1,1 +1,1 @@
-function img() {document.getElementById('logo3').src ="./image/josai.logo.png";}
+function img() {document.getElementById('logo5').src ="./image/josai.logo.png";}
